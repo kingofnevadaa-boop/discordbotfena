@@ -1,0 +1,19 @@
+{
+  "yedekSlot": 3,
+  "renkler": {
+    "normal": "#2ecc71",
+    "dolu": "#f1c40f",
+    "kapandi": "#e74c3c",
+    "bilgi": "#3498db",
+    "log_katil": "#2ecc71",
+    "log_ayril": "#e74c3c"
+  },
+  "emojiler": {
+    "katil": "✅",
+    "ayril": "❌",
+    "bilgi": "ℹ️",
+    "yedek": "🔸",
+    "kilitli": "🔒",
+    "dolu": "🟡"
+  }
+}

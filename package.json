@@ -1,0 +1,14 @@
+{
+  "name": "ingame-bot",
+  "version": "1.0.0",
+  "description": "Discord InGame Katılma Botu",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.2",
+    "dotenv": "^16.4.5"
+  }
+}
